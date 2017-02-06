@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/raw/sheepyhorn.mp3
+SHA1-Digest: uFNK6diOLJCTkezkv9q1xWKER/8=
+
+Name: res/layout/main.xml
+SHA1-Digest: 5NmZzQGcbbmBtqcegbC3d9Ooyi0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 1Fq4yUebuWhdl5ZIsWKbinbYCdE=
+
+Name: res/drawable/awesome2.PNG
+SHA1-Digest: mg76SGLVloRpbDo4OVEQKJGWa80=
+
+Name: res/drawable/blackbg.png
+SHA1-Digest: zCi+cwA0LYPbe0HyYPR8VwAurNk=
+
+Name: res/drawable/buttonselector.xml
+SHA1-Digest: h+TqSY+4mJK3ifDtf7p4Ci1IDTg=
+
+Name: resources.arsc
+SHA1-Digest: knoUk0JQAAohBjpZJYfL+Htlkgw=
+
+Name: classes.dex
+SHA1-Digest: 3Zbt5+NvtvpipHGizfm0RK2S+VQ=
+
+Name: res/drawable/awesome1.png
+SHA1-Digest: NiG5JYSh+84DTuT9Vl8hkTZAt8M=
+
+Name: res/drawable/awsmicon.png
+SHA1-Digest: /M0/Mv6k65+HnSURTWD+U6Z1uG8=
+
