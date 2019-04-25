@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Dark">
+
+
+
+    <style name="Dark" >
         <item name="android:colorForeground">#ffffffff</item>
         <item name="android:windowBackground">@drawable/blackbg</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:background">@drawable/blackbg</item>
     </style>
+
 </resources>
